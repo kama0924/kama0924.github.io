@@ -1,5 +1,5 @@
 ---
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+title: Document Center
 ---
 
 
