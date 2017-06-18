@@ -1,3 +1,8 @@
+---
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+---
+
+
 # Tizen Source Code (Android를 Tizen으로 수정한 것임)
 
 Tizen is an open source software stack created for a wide array of devices with different form factors. The primary purposes of Tizen are to create an open software platform available for carriers, OEMs, and developers to make their innovative ideas a reality and to introduce a successful, real-world product that improves the mobile experience for users.
