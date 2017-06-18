@@ -1,7 +1,3 @@
----
-title: Document Center
----
-
 
 # Tizen Source Code (Android를 Tizen으로 수정한 것임)
 
